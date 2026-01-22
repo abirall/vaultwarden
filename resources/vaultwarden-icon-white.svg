@@ -1,78 +1,43 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg version="1.1" viewBox="0 0 256 256" id="svg3917" sodipodi:docname="vaultwarden-icon-white.svg" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)" width="256" height="256" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs id="defs3921" />
-  <sodipodi:namedview id="namedview3919" pagecolor="#000000" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#202020" showgrid="false" inkscape:zoom="3.3359375" inkscape:cx="128" inkscape:cy="128" inkscape:window-width="1874" inkscape:window-height="1056" inkscape:window-x="46" inkscape:window-y="24" inkscape:window-maximized="1" inkscape:current-layer="svg3917" />
-  <title id="title3817">Vaultwarden Icon - White</title>
-  <g id="logo" transform="matrix(2.4381018,0,0,2.4381018,128,128)">
-    <g id="gear" mask="url(#holes)" stroke="#fff">
-      <path d="m-31.1718-33.813208 26.496029 74.188883h9.3515399l26.49603-74.188883h-9.767164l-16.728866 47.588948q-1.662496 4.571864-2.805462 8.624198-1.142966 3.948427-1.870308 7.585137-.72734199-3.63671-1.8703079-7.689043-1.142966-4.052334-2.805462-8.728104l-16.624959-47.381136z" fill="#fff" stroke-width="4.51171" id="path3819" />
-      <circle transform="scale(-1,1)" r="43" fill="none" stroke-width="9" id="circle3821" />
-      <g id="cogs" transform="scale(-1,1)">
-        <polygon id="cog" points="51 0 46 -3 46 3" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="3" />
-        <g fill="#fff" stroke="#fff" id="g3886">
-          <use transform="rotate(11.25)" xlink:href="#cog" id="use3824" />
-          <use transform="rotate(22.5)" xlink:href="#cog" id="use3826" />
-          <use transform="rotate(33.75)" xlink:href="#cog" id="use3828" />
-          <use transform="rotate(45)" xlink:href="#cog" id="use3830" />
-          <use transform="rotate(56.25)" xlink:href="#cog" id="use3832" />
-          <use transform="rotate(67.5)" xlink:href="#cog" id="use3834" />
-          <use transform="rotate(78.75)" xlink:href="#cog" id="use3836" />
-          <use transform="rotate(90)" xlink:href="#cog" id="use3838" />
-          <use transform="rotate(101.25)" xlink:href="#cog" id="use3840" />
-          <use transform="rotate(112.5)" xlink:href="#cog" id="use3842" />
-          <use transform="rotate(123.75)" xlink:href="#cog" id="use3844" />
-          <use transform="rotate(135)" xlink:href="#cog" id="use3846" />
-          <use transform="rotate(146.25)" xlink:href="#cog" id="use3848" />
-          <use transform="rotate(157.5)" xlink:href="#cog" id="use3850" />
-          <use transform="rotate(168.75)" xlink:href="#cog" id="use3852" />
-          <use transform="scale(-1)" xlink:href="#cog" id="use3854" />
-          <use transform="rotate(191.25)" xlink:href="#cog" id="use3856" />
-          <use transform="rotate(202.5)" xlink:href="#cog" id="use3858" />
-          <use transform="rotate(213.75)" xlink:href="#cog" id="use3860" />
-          <use transform="rotate(225)" xlink:href="#cog" id="use3862" />
-          <use transform="rotate(236.25)" xlink:href="#cog" id="use3864" />
-          <use transform="rotate(247.5)" xlink:href="#cog" id="use3866" />
-          <use transform="rotate(258.75)" xlink:href="#cog" id="use3868" />
-          <use transform="rotate(-90)" xlink:href="#cog" id="use3870" />
-          <use transform="rotate(-78.75)" xlink:href="#cog" id="use3872" />
-          <use transform="rotate(-67.5)" xlink:href="#cog" id="use3874" />
-          <use transform="rotate(-56.25)" xlink:href="#cog" id="use3876" />
-          <use transform="rotate(-45)" xlink:href="#cog" id="use3878" />
-          <use transform="rotate(-33.75)" xlink:href="#cog" id="use3880" />
-          <use transform="rotate(-22.5)" xlink:href="#cog" id="use3882" />
-          <use transform="rotate(-11.25)" xlink:href="#cog" id="use3884" />
-        </g>
-      </g>
-      <g id="mounts" transform="scale(-1,1)">
-        <polygon id="mount" points="0 -35 7 -42 -7 -42" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="6" />
-        <g fill="#fff" stroke="#fff" id="g3898">
-          <use transform="rotate(72)" xlink:href="#mount" id="use3890" />
-          <use transform="rotate(144)" xlink:href="#mount" id="use3892" />
-          <use transform="rotate(216)" xlink:href="#mount" id="use3894" />
-          <use transform="rotate(-72)" xlink:href="#mount" id="use3896" />
-        </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st1 {
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <g id="svg3917" sodipodi:docname="vaultwarden-icon-white.svg">
+    <sodipodi:namedview id="namedview3919" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg3917" inkscape:cx="128" inkscape:cy="128" inkscape:deskcolor="#202020" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:showpageshadow="2" inkscape:window-height="1056" inkscape:window-maximized="1" inkscape:window-width="1874" inkscape:window-x="46" inkscape:window-y="24" inkscape:zoom="3.3359375" pagecolor="#000000" showgrid="false"/>
+    <g>
+      <path class="st1" d="M186.78,161.38c-.63,0-1.35-.08-1.98-.24-4.36-.95-7.6-4.83-7.6-9.42v-41.66h-34.69c-5.31,0-9.66-4.36-9.66-9.66v-46.01l-.16-2.61h-21.7c-5.31,0-9.66-4.36-9.66-9.66v-15.36h-.55c-.4,0-.71,0-1.11.08-.4,0-.87.08-1.27.16-.24.08-.4.08-.63.16-.63.16-1.35.32-1.98.55-.24.08-.48.16-.63.24-1.19.48-2.38,1.03-3.48,1.66l-16.23,9.34-57.18,33.02c-6.57,3.8-10.61,10.77-10.61,18.37v84.74c0,7.6,4.04,14.57,10.61,18.37l73.33,42.37c6.57,3.8,14.65,3.8,21.22,0l40.15-23.2,28.91-16.71c.24-4.36.08-8.71-.71-12.99-2.69-15.44-12.12-29.54-25.26-38.01-10.93-6.97-23.84-10.06-35.16-16.39-17.9-10.06-30.73-28.59-33.9-48.78-2.61-16.55,1.35-34.05,10.53-48.07.3-.45.62-.89.95-1.33.89-1.17,1.89-2.28,2.93-3.27v.08c-1.04,1.44-2.01,2.91-2.93,4.43-6.53,10.77-10.06,23.4-10.06,36.04,0,3.41.24,6.81.79,10.14,3.17,20.27,16,38.73,33.9,48.78,11.25,6.34,24.23,9.42,35.16,16.39,13.15,8.47,22.57,22.57,25.26,38.01.79,4.51.95,9.11.63,13.78l2.14-1.27c.85-.47,1.67-1.04,2.45-1.65.52-.41,1.03-.84,1.51-1.28,4.2-3.96,6.65-9.5,6.65-15.44v-13.7h-9.98Z"/>
+      <g>
+        <path class="st0" d="M132.84,54.31l-.16-2.61h-21.7c-5.31,0-9.66-4.36-9.66-9.66v.08c0,5.31,4.36,9.66,9.66,9.66h21.7l.16,2.61v-.08Z"/>
+        <path class="st0" d="M177.19,109.98h-34.69c-5.31,0-9.66-4.36-9.66-9.66v.08c0,5.31,4.36,9.66,9.66,9.66h34.69v-.08Z"/>
+        <path class="st0" d="M184.8,161.06c-4.36-.95-7.6-4.83-7.6-9.42v.08c0,4.59,3.25,8.47,7.6,9.42.63.16,1.35.24,1.98.24h9.98v-.08h-9.98c-.63,0-1.35-.08-1.98-.24Z"/>
+        <rect class="st0" x="139.81" y="51.69" width="51.24" height="51.24" rx="2.61" ry="2.61"/>
+        <rect class="st0" x="108.29" y="12.57" width="32.15" height="32.15" rx="2.61" ry="2.61"/>
+        <path class="st0" d="M186.78,110.46h38.57c1.44,0,2.61,1.17,2.61,2.61v38.57c0,1.44-1.17,2.61-2.61,2.61h-38.57c-1.44,0-2.61-1.17-2.61-2.61v-38.57c0-1.44,1.17-2.61,2.61-2.61Z"/>
+        <rect class="st0" x="231.52" y="110.46" width="20.27" height="20.27" rx="2.61" ry="2.61"/>
+        <path class="st0" d="M149.24,45.52h11.48c1.43,0,2.61-1.19,2.61-2.61v-11.4c0-1.5-1.19-2.69-2.61-2.69h-11.48c-1.43,0-2.61,1.19-2.61,2.61v11.48c0,1.43,1.19,2.61,2.61,2.61Z"/>
+        <path class="st0" d="M149.24,24.37h6.57c1.43,0,2.61-1.19,2.61-2.61v-6.57c0-1.5-1.19-2.61-2.61-2.61h-6.57c-1.43,0-2.61,1.19-2.61,2.61v6.57c0,1.43,1.19,2.61,2.61,2.61Z"/>
+        <path class="st0" d="M165.47,19.14h1.35c1.43,0,2.61-1.19,2.61-2.61v-1.35c0-1.5-1.19-2.61-2.61-2.61h-1.35c-1.43,0-2.61,1.19-2.61,2.61v1.35c0,1.43,1.19,2.61,2.61,2.61Z"/>
+        <rect class="st0" x="195.8" y="23.58" width="6.57" height="6.57" rx="2.61" ry="2.61"/>
+        <rect class="st0" x="168.72" y="24.45" width="21.14" height="21.14" rx="2.61" ry="2.61"/>
+        <path class="st0" d="M196.28,36.96v6.02c0,1.43,1.11,2.61,2.61,2.61h6.02c1.43,0,2.61-1.19,2.61-2.61v-6.02c0-1.43-1.19-2.61-2.61-2.61h-6.02c-1.43,0-2.61,1.19-2.61,2.61Z"/>
+        <rect class="st0" x="196.28" y="49.63" width="5.62" height="5.62" rx="2.61" ry="2.61"/>
+        <rect class="st0" x="205.86" y="49.63" width="5.62" height="5.62" rx="2.61" ry="2.61"/>
+        <path class="st0" d="M199.13,104.67h19.01c1.43,0,2.61-1.19,2.61-2.61v-19.01c.08-1.5-1.11-2.61-2.61-2.61h-19.01c-1.43,0-2.61,1.19-2.61,2.61v19.01c0,1.43,1.19,2.61,2.61,2.61Z"/>
+        <path class="st0" d="M236.59,102.14v-5.54c0-1.43-1.19-2.61-2.61-2.61h-5.54c-1.43,0-2.61,1.19-2.61,2.61v5.54c-.08,1.43,1.11,2.61,2.61,2.61h5.54c1.43,0,2.61-1.19,2.61-2.61Z"/>
+        <rect class="st0" x="196.52" y="57.95" width="16.71" height="16.71" rx="2.61" ry="2.61"/>
+        <rect class="st0" x="217.42" y="64.13" width="10.53" height="10.53" rx="2.61" ry="2.61"/>
+        <path class="st0" d="M220.04,60.48c1.43,0,2.61-1.19,2.61-2.61s-1.19-2.61-2.61-2.61-2.61,1.19-2.61,2.61,1.19,2.61,2.61,2.61Z"/>
       </g>
     </g>
-    <mask id="holes">
-      <rect x="-60" y="-60" width="120" height="120" fill="#fff" id="rect3902" />
-      <circle id="hole" cy="-40" r="3" />
-      <use transform="rotate(72)" xlink:href="#hole" id="use3905" />
-      <use transform="rotate(144)" xlink:href="#hole" id="use3907" />
-      <use transform="rotate(216)" xlink:href="#hole" id="use3909" />
-      <use transform="rotate(-72)" xlink:href="#hole" id="use3911" />
-    </mask>
   </g>
-  <metadata id="metadata3915">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:title>Vaultwarden Icon - White</dc:title>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Mathijs van Veluw</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:relation>Rust Logo</dc:relation>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
 </svg>
